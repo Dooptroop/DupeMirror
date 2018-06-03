@@ -1,5 +1,7 @@
 # Various Node ignoramuses.
-./config
+config/
+.idea/
+
 logs
 *.log
 npm-debug.log*
